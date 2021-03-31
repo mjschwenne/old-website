@@ -6,3 +6,7 @@ layout: default
 ---
 
 This is a test of the system. I hope that this works.
+
+{% for post in site.posts %}
+	(post.title)[post.url]
+{% endfor %}
