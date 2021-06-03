@@ -366,4 +366,7 @@ From here we generate spanning trees or arborescences until the cost moves upwar
 Held and Karp did not program this method.
 We have some reason to believe that the performance of this method will be the best due to the fact that it is designed to be an improvement over the ascent method which was tested (somewhat) until $$n = 25$$ which is still better than the column generation technique which was only consistently able to solve up to $$n = 12$$.
 
+## References
+A. Asadpour, M. X. Goemans, A. Mardry, S. O. Ghran, and A. Saberi, *An o(log n / log log n)-approximation algorithm for the asymmetric traveling salesman problem*, Operations Research, 65 (2017), pp. 1043-1061, [https://homes.cs.washington.edu/~shayan/atsp.pdf](https://homes.cs.washington.edu/~shayan/atsp.pdf).
 
+Held, M., Karp, R.M. The traveling-salesman problem and minimum spanning trees. Operations research, 1970-11-01, Vol.18 (6), p.1138-1162. [https://www.jstor.org/stable/169411](https://www.jstor.org/stable/169411)
