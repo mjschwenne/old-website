@@ -1,0 +1,132 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\begin{document}
+\nopagecolor
+\begin{tabular}{c c}
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 17};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[left] node{4} (c)
+              (c) edge[below] node{5} (d)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    &
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 18};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[left] node{4} (c)
+              (b) edge[below] node{6} (e)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    \\
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 19};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[above] node{6} (e)
+              (c) edge[below] node{5} (d)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    &
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 19};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[left] node{4} (c)
+              (c) edge[above] node{7} (e)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    \\
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 20};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[left] node{4} (c)
+              (b) edge[above] node{6} (e)
+              (c) edge[below] node{5} (d);
+    \end{tikzpicture}
+    &
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 21};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[above] node{6} (e)
+              (c) edge[above] node{7} (e)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    \\
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 21};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[above] node{6} (e)
+              (c) edge[above] node{7} (e)
+              (d) edge[right] node{3} (e);
+    \end{tikzpicture}
+    &
+    \begin{tikzpicture}
+        \node[circle, inner sep=2pt, fill] (a) at (0, 0) {\color{white} $A$};
+        \node[circle, inner sep=2pt, fill] (b) at (-2, -2) {\color{white} $B$};
+        \node[circle, inner sep=2pt, fill] (c) at (-1.5, -4) {\color{white} $C$};
+        \node[circle, inner sep=2pt, fill] (d) at (2, -3.5) {\color{white} $D$};
+        \node[circle, inner sep=2pt, fill] (e) at (2, -2) {\color{white} $E$};
+    
+        \node at (0, -4.5) {cost = 23};
+
+        \draw (a) edge[left] node{5} (b)
+              (b) edge[above] node{6} (e)
+              (c) edge[above] node{7} (e)
+              (c) edge[below] node{5} (d);
+    \end{tikzpicture}
+    \\
+\end{tabular}
+\end{document}

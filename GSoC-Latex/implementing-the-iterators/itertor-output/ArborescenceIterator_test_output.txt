@@ -1,0 +1,6801 @@
+NEW arborescence of weight 96.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 97.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 97.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 97.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 98.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 98.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 98.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 99.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 99.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 99.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 100.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 101.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 102.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 102.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 103.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 103.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 103.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 104.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 105.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 105.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 105.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 105.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 106.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 106.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 107.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 107.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 108.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 109.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 109.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 110.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 110.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 110.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 111.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 111.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 111.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 112.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 112.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 113.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 113.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 113.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 114.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 114.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 114.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 114.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 115.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 115.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 115.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 115.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 116.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 116.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 116.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 116.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 116.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 116.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 117.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 117.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 117.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 117.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 118.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 118.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 118.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 118.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 119.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 119.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 119.0
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 119.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 119.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 120.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 120.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 120.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 120.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 120.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 120.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 120.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 120.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 120.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 121.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 121.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 121.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 121.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 121.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 122.0
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 4, weight: 12)
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 122.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 123.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 123.0
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 123.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 5, weight: 13)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 123.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 123.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 124.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 124.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 124.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 124.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 5, weight: 13)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 124.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 124.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 124.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 125.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 125.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 125.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 8, weight: 15)
+
+NEW arborescence of weight 125.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 125.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(0, 4, weight: 12)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 126.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(0, 2, weight: 12)
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 126.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 6, weight: 15)
+
+NEW arborescence of weight 127.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(2, 1, weight: 17)
+(2, 5, weight: 12)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(6, 2, weight: 21)
+(7, 6, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(1, 0, weight: 4)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(1, 0, weight: 4)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 127.0
+(0, 4, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 6, weight: 18)
+(4, 7, weight: 12)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(7, 3, weight: 19)
+
+NEW arborescence of weight 128.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(5, 8, weight: 12)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 128.0
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(5, 6, weight: 14)
+(6, 2, weight: 21)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 128.0
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(3, 0, weight: 5)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 2, weight: 21)
+(7, 3, weight: 19)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 130.0
+(0, 2, weight: 12)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(2, 5, weight: 12)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+
+NEW arborescence of weight 131.0
+(0, 2, weight: 12)
+(1, 5, weight: 13)
+(2, 1, weight: 17)
+(2, 3, weight: 21)
+(3, 4, weight: 17)
+(3, 6, weight: 18)
+(6, 8, weight: 15)
+(8, 7, weight: 18)
+Found a total of 680 arborescences!
+
