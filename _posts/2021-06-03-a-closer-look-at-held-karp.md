@@ -369,4 +369,4 @@ We have some reason to believe that the performance of this method will be the b
 ## References
 A. Asadpour, M. X. Goemans, A. Mardry, S. O. Ghran, and A. Saberi, *An o(log n / log log n)-approximation algorithm for the asymmetric traveling salesman problem*, Operations Research, 65 (2017), pp. 1043-1061, [https://homes.cs.washington.edu/~shayan/atsp.pdf](https://homes.cs.washington.edu/~shayan/atsp.pdf).
 
-Held, M., Karp, R.M. The traveling-salesman problem and minimum spanning trees. Operations research, 1970-11-01, Vol.18 (6), p.1138-1162. [https://www.jstor.org/stable/169411](https://www.jstor.org/stable/169411)
+Held, M., Karp, R.M. *The traveling-salesman problem and minimum spanning trees*. Operations research, 1970-11-01, Vol.18 (6), p.1138-1162. [https://www.jstor.org/stable/169411](https://www.jstor.org/stable/169411)
