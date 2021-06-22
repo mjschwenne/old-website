@@ -3,13 +3,13 @@ layout: post
 usemathjax: true
 ---
 It has been far longer than I would have prefered since I wrote a blog post.
-As I expected in my original GSoC proposual, the Held-Karp relaxation is proving to be quite difficult to implement.
+As I expected in my original GSoC proposal, the Held-Karp relaxation is proving to be quite difficult to implement.
 
 My mentors and I agreed that the branch and bound method discussed in Held and Karp's 1970 paper *The Traveling-Salesman Problem and Minimum Spanning Trees* which first required the implementation of the ascent method because it is used in the branch and bound method.
 For the last week and a half I have been implementing and debugging the ascent method and wanted to take some time to reflect on what I have learned.
 
 I will start by saying that as of the writing of this post, my version of the ascent method is not giving what I expect to be the optimal solution. 
-For my testing, I took the graph which Held and Karp use in their example of the branch and bound method, a weighted $$\mathcal{K}_6$$, and converted to a directed but symmetric version given in the following adjcancy matrix.
+For my testing, I took the graph which Held and Karp use in their example of the branch and bound method, a weighted $$\mathcal{K}_6$$, and converted to a directed but symmetric version given in the following adjacency matrix.
 
 $$
 \begin{bmatrix}
@@ -31,13 +31,13 @@ This is the cycle returned by the program, which has a total weight of 246.
 
 <center><img src="/assets/found-solution.png" width=350 /></center>
 
-All of this code goes into the function `_held_karp()` within `traveling_saleaman.py` in NetworkX and I tried to follow the algorithm outlined in the paper as closly as I could.
+All of this code goes into the function `_held_karp()` within `traveling_saleaman.py` in NetworkX and I tried to follow the algorithm outlined in the paper as closely as I could.
 The `_held_karp()` function itself has three inner functions, `k_pi()`, `direction_of_ascent()` and `find_epsilon()` which represent the main three steps used in each iteration of the ascent method.
 
 ## `k_pi()`
 
 `k_pi()` uses the `ArborescenceIterator` I implemented during the first week of coding for the Summer of Code to find all of the minimum 1-arborescences in the graph. 
-My original assesment on creating 1-arborescences was slightly incorrect.
+My original assessment of creating 1-arborescences was slightly incorrect.
 I stated that
 
 > In order to connect vertex 1, we would choose the outgoing arc with the smallest cost and the incoming arc with the smallest cost.
@@ -45,16 +45,16 @@ I stated that
 In reality, this method would produce graphs which are almost arborescences based solely on the fact that the outgoing arc would almost certainly create a vertex with two incoming arcs.
 Instead, we need to connect vertex 1 with the incoming edge of lowest cost and the edge connecting to the root node of the arborescence on nodes $$\{2, 3, \dots, n\}$$ that way the in-degree constraint is not violated.
 
-For the test graph on the first iteration of the ascent method, `k_pi()` returned 10 1-arborescences but the costs where not all the same. 
-Notice that becuase we have no agency in choosing the outgoing edge of vertex 1 that the total cost of the 1-arborescence will vary by the difference between the cheapest root to connect to and the most expensive node to connect to.
-My original writting of this function was not very efficent and it created the 1-arborescence from all of the minimum spanning arborescencses and then iterated over them to delete all of the non-minimum ones.
+For the test graph on the first iteration of the ascent method, `k_pi()` returned 10 1-arborescences but the costs were not all the same. 
+Notice that because we have no agency in choosing the outgoing edge of vertex 1 that the total cost of the 1-arborescence will vary by the difference between the cheapest root to connect to and the most expensive node to connect to.
+My original writing of this function was not very efficient and it created the 1-arborescence from all of the minimum spanning arborescences and then iterated over them to delete all of the non-minimum ones.
 
 Yesterday I re-wrote this function so that once a 1-arborescence of lower weight was found it would delete all of the current minimum ones in favor on the new one and not add any 1-arborescences it found with greater weight to the set of minimum 1-arborescences.
 
-The real reason that I re-wrote the method was to try something new in hopes of pushing the program from a sub-optimal solution to the optimal one.
+The real reason that I re-wrote the method was to try something new in hopes of pushing the program from a suboptimal solution to the optimal one.
 As I mentioned early, the forced choice of connecting to the root node created 1-arborescences of different weight. 
-I suspected then that different choices of vertex 1 would be able to create 1-arborescences of even lower weight than just arbitarily using the one returned by `next(G.__iter__())`.
-So I wrapped all of `k_pi()` with a `for` loop over the vertices of the graph and did find that the choice of vertex 1 made a difference. 
+I suspected then that different choices of vertex 1 would be able to create 1-arborescences of even lower weight than just arbitrarily using the one returned by `next(G.__iter__())`.
+So I wrapped all of `k_pi()` with a `for` loop over the vertices of the graph and found that the choice of vertex 1 made a difference. 
 
 {% highlight plaintext %}
 Excluded node: 0, Total Weight: 161.0
@@ -139,9 +139,9 @@ Chosen incoming edge for node 5: (1, 5), chosen outgoing edge for node 5: (5, 1)
 (5, 1, 30)
 {% endhighlight %}
 
-Note that becuase my test graph is symmertic it likes to made cycles with only two nodes.
+Note that because my test graph is symmetric it likes to make cycles with only two nodes.
 The weights of these 1-arborescences range from 161 to 178, so I tried to run the test which had been taking about 300 ms using the new approach... and the program was non-terminating.
-I created breakpoints in PyCharm after 200 iterations of the ascent menthod and found that the program was stuck in a loop where it alternated between two different minimum 1-arborescences.
+I created breakpoints in PyCharm after 200 iterations of the ascent method and found that the program was stuck in a loop where it alternated between two different minimum 1-arborescences.
 This was a long shot, but it did not work out so I reverted the code to always pick the same vertex for vertex 1.
 
 Either way, the fact that I had almost entirely re-written this function without a change in output suggests that this function is not the source of the problem.
@@ -171,13 +171,13 @@ $$
 \sum_{k \in K(\pi)} \alpha_k = 1
 $$
 
-Once I spent several hours trying to debug the original linear program and noticed the missing constraint the linear program started to behave correctly, terminating the program when a tour is found.
+Once I spent several hours trying to debug the original linear program and noticed the missing constraint. The linear program started to behave correctly, terminating the program when a tour is found.
 
 ## `find_epsilon()`
 
-This function require a completely different implementation compared to the one discribed in the Held and Karp paper.
+This function requires a completely different implementation compared to the one described in the Held and Karp paper.
 
-The basic idea in both my implementation for directed graphs and the discripion for undirected graphs is finding edges which are substitutes for each other, or an edge outside the 1-arborescence which can replace an edge in the arborescence and sill result in a 1-arborescence.
+The basic idea in both my implementation for directed graphs and the description for undirected graphs is finding edges which are substitutes for each other, or an edge outside the 1-arborescence which can replace an edge in the arborescence and will result in a 1-arborescence.
 
 The undirected version uses the idea of fundamental cycles in the tree to find the substitutes, and I tried to use this idea as will with the [`find_cycle()`](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.cycles.find_cycle.html) function in the NetworkX library.
 I executed the first iteration of the ascent method by hand and noticed that what I computed for all of the possible values of $$\epsilon$$ and what the program found did not match.
@@ -219,19 +219,19 @@ $$
 $$
 
 Notice that some substitutions do not cross over if we move in the direction of ascent, which are the pairs which have a zero as the denominator.
-Additionally, $$\epsilon$$ is a distance, and the concept of a negative distance does not made sense. 
+Additionally, $$\epsilon$$ is a distance, and the concept of a negative distance does not make sense. 
 Interpreting a negative distance as a positive distance in the opposite direction, if we needed to move in that direction, the direction of ascent vector would be pointing the other way.
 
 The reason that my list did not match the list of the program was because `find_cycle()` did not always return the fundamental cycle containing the new edge.
 If I called `find_cycle()` on a vertex in the other cycle in the graph (in this case $$\{(0, 4), (4, 0)\}$$), it would return that rather than the true fundamental cycle.
 
-This prompted me to think about what really determines if edges in a 1-arborescence are subtitutes for each other.
+This prompted me to think about what really determines if edges in a 1-arborescence are substitutes for each other.
 In every case where a substitute was valid, both of those edges lead to the same vertex.
 If they did not, then the degree constraint of the arborescence would be violated because we did not replace the edge leading into a node with another edge leading into the same node.
 This is true regardless of if the edges are part of the same fundamental cycle or not. 
 
 Thus, `find_epsilon()` now takes every edge in the graph but not the chosen 1-arborescence $$k \in K(\pi, d)$$ and find the other edge in $$k$$ pointing to the same vertex, swaps them and then checks that the degree constraint is not violated, it has the correct number of edges and it is still connected.
-This is a more efficent method to use, and it found more valid substitutions as well so I was hopeful that it would finally bring the returned solution down to the optimal solution, perhaps because it was missing the correct value of $$\epsilon$$ on even just one of the iterations.
+This is a more efficient method to use, and it found more valid substitutions as well so I was hopeful that it would finally bring the returned solution down to the optimal solution, perhaps because it was missing the correct value of $$\epsilon$$ on even just one of the iterations.
 
 It did not.
 
@@ -240,10 +240,10 @@ It did not.
 At this point I have no real course forward, but two unappealing options.
 
 * I found the problem with `find_epsilon()` by executing the first iteration of the ascent method by hand. It took about 90 minutes. 
-  I could try to continue this process and hope that while iteration 1 is executing correctly I find some other bug in the code, but I doubt that I will ever reach the 9 iterations the progarm needs 
+  I could try to continue this process and hope that while iteration 1 is executing correctly I find some other bug in the code, but I doubt that I will ever reach the 9 iterations the program needs 
   to find the faulty solution.
 * Move on to the branch and bound part of the Held-Karp relaxation. 
-  My hope is that becuase Held and Karp give a complete execution of the branch and bound method that I will be able to use that to trace a complete execution of the relaxation and find the flaw in
+  My hope is that because Held and Karp give a complete execution of the branch and bound method that I will be able to use that to trace a complete execution of the relaxation and find the flaw in
   the ascent method that way.
 
 I will be discussing the next steps with my GSoC mentors soon. 
@@ -251,3 +251,6 @@ I will be discussing the next steps with my GSoC mentors soon.
 ## References
 
 Held, M., Karp, R.M. *The traveling-salesman problem and minimum spanning trees*. Operations research, 1970-11-01, Vol.18 (6), p.1138-1162. [https://www.jstor.org/stable/169411](https://www.jstor.org/stable/169411)
+
+
+
