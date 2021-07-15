@@ -22,7 +22,7 @@ Referencing the Algorithm 1 from the Asadpour paper, we are now *finally* on ste
 >
 > 2. Let $$E$$ be the support graph of $$z^*$$ when the direction of the arcs are disregarded.
 > Find weights $$\{\tilde{\gamma}\}_{e \in E}$$ such that the exponential distribution on the spanning trees, $$\tilde{p}(T) \propto \exp(\sum_{e \in T} \tilde{\gamma}_e)$$ (approximately) preserves the marginals imposed by $$z^*$$, i.e. for any edge $$e \in E$$,
->     <center>$$\sum_{T \in \mathcal{T} : T \ni e} \tilde{p}(T) \geq (1 + \epsilon) z^*_e$$,</center>
+>     <center>$$\sum_{T \in \mathcal{T} : T \ni e} \tilde{p}(T) \leq (1 + \epsilon) z^*_e$$,</center>
 > for a small enough value of $$\epsilon$$.
 > (In this paper we show that $$\epsilon = 0.2$$ suffices for our purpose. See Section 7 and 8 for a description of how to compute such a distribution.)
 >
@@ -213,7 +213,7 @@ Once both functions are complete, I can sample a large number of spanning trees 
 An alternative test would be to use the marginals in the distribution and have to manually check that 
 
 $$
-\sum_{T \in \mathcal{T} : T \ni e} p(T) \geq (1 + \epsilon) z^*_e,\ \forall\ e \in E
+\sum_{T \in \mathcal{T} : T \ni e} p(T) \leq (1 + \epsilon) z^*_e,\ \forall\ e \in E
 $$
 
 where $$p(T)$$ is the experimental data from the sampled trees.
