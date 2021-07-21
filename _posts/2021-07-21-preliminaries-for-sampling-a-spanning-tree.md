@@ -33,7 +33,7 @@ As for the product of the weights of the graph being the probability, the Asadpo
 > Given $$\lambda_e \geq 0$$ for $$e \in E$$, a $$\lambda$$*-random tree* $$T$$ of $$G$$ is a tree $$T$$ chosen from the set of all spanning trees of $$G$$ with probability proportional to $$\prod_{e \in T} \lambda_e$$.
 
 So this is not a concern. 
-Finally, the value of $$n(G)$$ can be written as 
+Finally, the probabilty we desire from the Asadpour paper can be written as 
 
 $$
 \frac{\prod_{e \in T} \lambda_e}{\sum_{T \in \mathcal{T}} \prod_{e \in T} \lambda_e}
