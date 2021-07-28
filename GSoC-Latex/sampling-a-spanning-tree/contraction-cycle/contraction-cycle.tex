@@ -1,0 +1,19 @@
+\documentclass[border=5pt]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+
+\begin{document}
+\nopagecolor
+\begin{tikzpicture}
+    \node[circle, inner sep=2pt, fill] (0) at (0, 2) {\color{white} 0};
+    \node[circle, inner sep=2pt, fill] (1) at (2, -1.732) {\color{white} 1};
+    \node[circle, inner sep=2pt, fill] (2) at (-2, -1.732) {\color{white} 2};
+    
+    \draw (0) edge (1)
+          (1) edge (2)
+          (2) edge (0);
+\end{tikzpicture}
+\end{document}

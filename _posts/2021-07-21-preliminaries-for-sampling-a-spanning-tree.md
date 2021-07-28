@@ -113,8 +113,8 @@ Next we have the loop.
 
 {% highlight plaintext %}
     for edge e in shuffled_edges
-        G_total_tree_weight = kirchhoffs(perpare_graph(G, U, V))
-        G_i_total_tree_weight = kirchhoffs(perpare_graph(G, U.add(e), V))
+        G_total_tree_weight = kirchhoffs(prepare_graph(G, U, V))
+        G_i_total_tree_weight = kirchhoffs(prepare_graph(G, U.add(e), V))
         z = uniform(0, 1)
         if z <= e[lambda_key] * G_i_total_tree_weight / G_total_tree_weight
             U = U.add(e)
@@ -127,7 +127,7 @@ Next we have the loop.
             V = V.remove(e)
 {% endhighlight %}
 
-The main loop body does use two other functions which are not part of the standard NetworkX libraries, `krichhoffs` and `perpare_graph`.
+The main loop body does use two other functions which are not part of the standard NetworkX libraries, `krichhoffs` and `prepare_graph`.
 As I mentioned before, `krichhoffs` will apply Krichhoff's Theorem to the graph.
 Pseudo code for this is below and strongly based off of the existing code in `q` of `spanning_tree_distribution` which will be updated to use this new helper.
 
@@ -143,10 +143,10 @@ def krichhoffs
     return det(G_laplacian)
 {% endhighlight %}
 
-The process for the other helper, `perpare_graph` is also given.
+The process for the other helper, `prepare_graph` is also given.
 
 {% highlight plaintext %}
-def perpare_graph
+def prepare_graph
     Input: A graph G, set of contracted edges U and edges which are not removed V
     Output: A subgraph of G in which all vertices in U are contracted and edges not in V are removed
     
