@@ -211,6 +211,102 @@ $$
 
 Also, the test now completes without error.
 
+## Update! (28 July 2021)
+
+Further research and discussion with my mentors revealed just how flawed by original analysis was.
+In the next step, sampling the spanning trees, adding anything to $$\gamma$$ would directly increase the probability that the edge would be sampled.
+That being said, the original problem that I found was still an issue.
+
+Going back to the notion that we a graph on which every spanning tree maps to every spanning tree which contains the desired edge, this is still the key idea which lets us use Krichhoff's Tree Matrix Theorem.
+And, contracting the edge will still give a graph in which every spanning tree can be mapped to a corresponding spanning tree which includes $$e$$.
+However, the weight of those spanning trees in $$G \backslash \{e\}$$ do not quite map between the two graphs.
+
+Recall that we are dealing with a multiplicative weight function, so the final weight of a tree is the product of all the $$\lambda$$'s on its edges.
+
+$$
+c(T) = \prod_{e \in E} \lambda_e
+$$
+
+The above statement can be expanded into 
+
+$$
+c(T) = \lambda_1 \times \lambda_2 \times \dots \times \lambda_{|E|}
+$$
+
+with some arbitary ordering of the edges $$1, 2, \dots |E|$$.
+Because the ordering of the edges is arbitary and due to the associative property of multiplcation, we can assume without loss of generality that the desired edge $$e$$ is the last one in the sequence.
+
+Any spanning tree in $$G \backslash \{e\}$$ cannot include that last $$\lambda$$ in it becuase that edge does not exist in the graph.
+Therefore in order to convert the weight from a tree in $$G \backslash \{e\}$$ we need to multiply $$\lambda_e$$ back into the weight of the contracted tree.
+So, we can now state that
+
+$$
+c(T \in \mathcal{T}: T \ni e) = \lambda_e \prod_{f \in E} \lambda_f\ \forall\ T \in G \backslash \{e\}
+$$
+
+or that for all trees in $$G \backslash \{e\}$$, the cost of the corresponding tree in $$G$$ is the product of its edge $$\lambda$$'s times the weight of the desired edge.
+Now recall that $$q_e(\gamma)$$ is
+
+$$
+\frac{\sum_{T \ni e} \exp(\gamma(T))}{\sum_{T \in \mathcal{T}} \exp(\gamma(T))}
+$$
+
+In particular we are dealing with the numerator of the above fraction and using $$\lambda_e = \exp(\gamma_e)$$ we can rewrite it as
+
+$$
+\sum_{T \ni e} \exp(\gamma(T)) = \sum_{T \ni e} \prod_{e \in T} \lambda_e
+$$
+
+Since we now know that we are missing the $$\lambda_e$$ term, we can add it into the expression.
+
+$$
+\sum_{T \ni e} \lambda_e \times \prod_{f \in T, f \not= e} \lambda_f
+$$
+
+Using the rules of summation, we can pull the $$\lambda_e$$ factor out of the summation to get
+
+$$
+\lambda_e \times \sum_{T \ni e} \prod_{f \in T, f \not= e} \lambda_f
+$$
+
+And since we use that applying Krichhoff's Theorem to $$G \backslash \{e\}$$ will yeild everything except the factor of $$\lambda_e$$, we can just multiply it back manually.
+This would let the peusdo code for `q` become
+
+{% highlight plaintext %}
+def q
+    input: e, the edge of interest
+    
+    # Create the laplacian matrices
+    write lambda = exp(gamma) into the edges of G
+    G_laplace = laplacian(G, lambda)
+    G_e = nx.contracted_edge(G, e)
+    G_e_laplace = laplacian(G, lambda)
+    
+    # Delete a row and column from each matrix to made a cofactor matrix
+    G_laplace.delete((0, 0))
+    G_e_laplace.delete((0, 0))
+
+    # Calculate the determinant of the cofactor matrices
+    det_G_laplace = G_laplace.det
+    det_G_e_laplace = G_e_laplace.det
+    
+    # return q_e
+    return lambda_e * det_G_e_laplace / det_G_laplace
+{% endhighlight %}
+
+Making this small change to `q` worked very well. 
+I was able to change back to subtracting $$\delta$$ as the Asadpour paper does and even added a check to code so that everytime we update a value in $$\gamma$$ we know that $$\delta$$ has had the correct effect.
+
+{% highlight python %}
+# Check that delta had the desired effect
+new_q_e = q(e)
+desired_q_e = (1 + EPSILON / 2) * z_e
+if round(new_q_e, 8) != round(desired_q_e, 8):
+    raise Exception
+{% endhighlight %}
+
+And the test passes without fail!
+
 ## What's Next
 
 I technically do not know if this distribution is correct until I can start to sample from it.
