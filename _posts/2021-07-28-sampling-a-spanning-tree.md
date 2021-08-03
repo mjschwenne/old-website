@@ -100,6 +100,14 @@ The sample size is so large because at 1000 trees the percent error was all over
 That being said, seeing the percent error converge to be less than 15% for all 75 spanning trees is not a very rigorous test.
 I can either implement a formal test using the percent error or try to create a Chi squared test using scipy.
 
+### Update! (29 July 2021)
+
+This morning I was able to get a Chi squared test working and it was definatly the correct dicision. 
+I was able to reduce the sample size from 50,000 to 1200 which is a near minimum sample.
+In order to run a Chi squared test you need an expected frequency of at least 5 for all of the categories so I had to find the number of samples to ganturee that for a tree with a probabilty of about 0.4% which was 1163 that I rounded to 1200.
+
+I am testing at the 0.01 signigance level, so this test may fail without reason 1% of the time but it is still a overall good test for distribution.
+
 ## References
 
 A. Asadpour, M. X. Goemans, A. Mardry, S. O. Ghran, and A. Saberi, *An o(log n / log log n)-approximation algorithm for the asymmetric traveling salesman problem*, SODA ’10,

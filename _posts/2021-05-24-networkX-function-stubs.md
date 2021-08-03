@@ -86,8 +86,11 @@ def asadpour_tsp(G, weight="weight"):
         Edge data key corresponding to the edge weight.
         If any edge does not have this attribute the weight is set to 1.
 
-    Returns ------- cycle : list of nodes Returns the cycle (list of nodes)
-    that a salesman can follow to minimize the total weight of the trip.
+    Returns 
+    ------- 
+    cycle : list of nodes 
+        Returns the cycle (list of nodes) that a salesman can follow to minimize 
+        the total weight of the trip.
 
     Raises
     ------
