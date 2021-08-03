@@ -151,13 +151,13 @@ I think that using a dict is the best option as it can be passed into [`set_node
 {% endhighlight %}
 
 Take the Eulerian circuit and shortcut it on the way out.
+Here we can add the support of the flow directly to `t_star` to simulate adding the two graphs together.
 
 {% highlight plaintext %}
-    flow_support = nx.DiGraph
     for u, v in flow_dict
-        if not in flow_support.edges
-            flow_support.add_edge(u, v)
-    eulerian_curcuit = nx.eulerian_circuit(flow_support)
+        if edge not in t_star.edges and flow_dict[u, v] > 0
+            t_star.add_edge(u, v)
+    eulerian_curcuit = nx.eulerian_circuit(t_star)
     return _shortcutting(eulerian_curcuit)
 {% endhighlight %}
 
