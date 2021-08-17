@@ -87,6 +87,10 @@ I have not changed the commit messages here, so that you my be assumed by my tro
 
 [Documentation update for the iterators](https://github.com/mjschwenne/networkx/commit/5503203433bc875df8c0de5d827bda7bed1589e2) - *No explanation needed*
 
+[Update mst.py to accept suggestion](https://github.com/mjschwenne/networkx/commit/337804ee38b2c1ac3964447a39d67184081deb01) - *Accepted doc string edit from code review*
+
+[Review suggestions from dshult](https://github.com/mjschwenne/networkx/commit/5f97de07821e49cc9ba4f9996ec6d1495eb268b7) - *Implemented code review suggestions from one of my mentors*
+
 ## `ArborescenceIterator`
 
 The `ArborescenceIterator` is a modified version of the algorithm discussed in [4] so that it iterates over the spanning arborescences. 
@@ -120,6 +124,10 @@ My commits listed here are still annotated and much of the work was done at the 
 [Modified the ArborescenceIterator to accept init partition](https://github.com/mjschwenne/networkx/commit/ae1c1031980f7e3c3854d718c8813b226d2e8d42) - *No explanation needed*
 
 [Documentation update for the iterators](https://github.com/mjschwenne/networkx/commit/5503203433bc875df8c0de5d827bda7bed1589e2) - *No explanation needed*
+
+[Update branchings.py accept doc string edit](https://github.com/mjschwenne/networkx/commit/b44a5ab9c8d5ac86db446213d7b9712e5b9aac81) - *No explanation needed*
+
+[Review suggestions from dshult](https://github.com/mjschwenne/networkx/commit/5f97de07821e49cc9ba4f9996ec6d1495eb268b7) - *Implemented code review suggestions from one of my mentors*
 
 ## `held_karp_ascent`
 
@@ -267,6 +275,8 @@ Multiplying my original value of $$q_e(\gamma)$$ by $$\exp(\gamma_e)$$ proved to
 
 [documentation update](https://github.com/mjschwenne/networkx/commit/837d0448d38936278cfa9fdb7d8cb636eb8552c3)
 
+[Review suggestions from dshult](https://github.com/mjschwenne/networkx/commit/5f97de07821e49cc9ba4f9996ec6d1495eb268b7) - *Implemented code review suggestions from one of my mentors*
+
 ## `sample_spanning_tree`
 
 What good is a spanning tree distribution if we can't sample from it?
@@ -315,6 +325,8 @@ Unfortanultly, the test would still fail 1% of the time until I added the `@py_r
 
 [documentation update](https://github.com/mjschwenne/networkx/commit/837d0448d38936278cfa9fdb7d8cb636eb8552c3)
 
+[Review suggestions from dshult](https://github.com/mjschwenne/networkx/commit/5f97de07821e49cc9ba4f9996ec6d1495eb268b7) - *Implemented code review suggestions from one of my mentors*
+
 ## `asadpour_atsp`
 
 This function was the last peice of the puzzle, connecting all of the others together and producing the final result!
@@ -355,6 +367,8 @@ A breif overview of the whole algorithm is given below:
 [One new test and check](https://github.com/mjschwenne/networkx/commit/11fef147246eb3374568515a4b29aeee5a9f469d)
 
 [Fixed rounding error with tests](https://github.com/mjschwenne/networkx/commit/6db9f7692fc5294ac206fa331242fe679cbfb7d7)
+
+[Review suggestions from dshult](https://github.com/mjschwenne/networkx/commit/5f97de07821e49cc9ba4f9996ec6d1495eb268b7) - *Implemented code review suggestions from one of my mentors*
 
 ## Future Involvement with NetworkX
 
